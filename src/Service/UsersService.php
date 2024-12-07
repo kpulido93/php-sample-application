@@ -2,6 +2,8 @@
 
 namespace Service;
 
+require_once __DIR__ . '/../Entity/User.php';
+
 use Entity\User;
 use PDO;
 
